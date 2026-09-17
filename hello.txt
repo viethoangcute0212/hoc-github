@@ -1,0 +1,2 @@
+Xin chào GitHub!
+Đây là project Git đầu tiên của tôi.
